@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2020.3/staging' branch; Version is '2020.3.37f1 (8c66806a0c04) revision 9201280'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10  (10.0.19044) 64bit Core' Language: 'es' Physical Memory: 16179 MB
+OS: 'Windows 11  (10.0.22621) 64bit Core' Language: 'es' Physical Memory: 16080 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
 COMMAND LINE ARGUMENTS:
@@ -11,97 +11,97 @@ C:\Program Files\Unity\Hub\Editor\2020.3.37f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/natal/Documents/GitHub/D-Keys/D-Keys
+C:/Users/joser/Desktop/ING.INFO/CUARTO/RAA/TrabajoGrupo/D-Keys/D-Keys
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-56387
-Successfully changed project path to: C:/Users/natal/Documents/GitHub/D-Keys/D-Keys
-C:/Users/natal/Documents/GitHub/D-Keys/D-Keys
+59952
+Successfully changed project path to: C:/Users/joser/Desktop/ING.INFO/CUARTO/RAA/TrabajoGrupo/D-Keys/D-Keys
+C:/Users/joser/Desktop/ING.INFO/CUARTO/RAA/TrabajoGrupo/D-Keys/D-Keys
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 55.16 ms, found 7 plugins.
+Refreshing native plugins compatible for Editor in 41.81 ms, found 7 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.37f1 (8c66806a0c04)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.37f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/natal/Documents/GitHub/D-Keys/D-Keys/Assets
+[Subsystems] Discovering subsystems at path C:/Users/joser/Desktop/ING.INFO/CUARTO/RAA/TrabajoGrupo/D-Keys/D-Keys/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
     Renderer: Intel(R) Iris(R) Xe Graphics (ID=0x9a49)
     Vendor:   
-    VRAM:     8089 MB
-    Driver:   30.0.101.1960
+    VRAM:     8040 MB
+    Driver:   30.0.101.1003
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.37f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.37f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.37f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56752
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56660
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.37f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002183 seconds.
+Registered in 0.001692 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 79.46 ms, found 7 plugins.
+Refreshing native plugins compatible for Editor in 37.09 ms, found 7 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.996 seconds
+- Completed reload, in  0.589 seconds
 Domain Reload Profiling:
-	ReloadAssembly (996ms)
-		BeginReloadAssembly (118ms)
+	ReloadAssembly (589ms)
+		BeginReloadAssembly (75ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (748ms)
-			LoadAssemblies (116ms)
+		EndReloadAssembly (438ms)
+			LoadAssemblies (73ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (211ms)
+			SetupTypeCache (125ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (49ms)
-			SetupLoadedEditorAssemblies (307ms)
+			RebuildScriptCaches (25ms)
+			SetupLoadedEditorAssemblies (187ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (7ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (80ms)
-				BeforeProcessingInitializeOnLoad (29ms)
-				ProcessInitializeOnLoadAttributes (140ms)
-				ProcessInitializeOnLoadMethodAttributes (50ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (37ms)
+				BeforeProcessingInitializeOnLoad (13ms)
+				ProcessInitializeOnLoadAttributes (93ms)
+				ProcessInitializeOnLoadMethodAttributes (38ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.006480 seconds.
+Registered in 0.006045 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.58 ms, found 7 plugins.
+Refreshing native plugins compatible for Editor in 0.63 ms, found 7 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.324 seconds
+- Completed reload, in  0.967 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1325ms)
-		BeginReloadAssembly (200ms)
+	ReloadAssembly (968ms)
+		BeginReloadAssembly (134ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
+			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (28ms)
-		EndReloadAssembly (1050ms)
-			LoadAssemblies (130ms)
+			CreateAndSetChildDomain (21ms)
+		EndReloadAssembly (769ms)
+			LoadAssemblies (97ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (337ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (76ms)
-			SetupLoadedEditorAssemblies (394ms)
+			SetupTypeCache (275ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (292ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (12ms)
+				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (113ms)
-				ProcessInitializeOnLoadAttributes (246ms)
-				ProcessInitializeOnLoadMethodAttributes (16ms)
+				BeforeProcessingInitializeOnLoad (87ms)
+				ProcessInitializeOnLoadAttributes (182ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
 				AfterProcessingInitializeOnLoad (5ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
@@ -109,15 +109,15 @@ Domain Reload Profiling:
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.52 ms, found 7 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.56 ms, found 7 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1759 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 102.3 MB.
+System memory in use before: 102.4 MB.
 System memory in use after: 102.4 MB.
 
 Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 2209.
-Total: 3.153900 ms (FindLiveObjects: 0.116300 ms CreateObjectMapping: 0.041500 ms MarkObjects: 2.782700 ms  DeleteObjects: 0.212200 ms)
+Total: 2.454800 ms (FindLiveObjects: 0.124000 ms CreateObjectMapping: 0.044400 ms MarkObjects: 2.163800 ms  DeleteObjects: 0.121600 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -131,7 +131,1579 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Scenes/apocalipsis zombie.unity
-  artifactKey: Guid(33f757aa85af76b408d31a772f921905) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/apocalipsis zombie.unity using Guid(33f757aa85af76b408d31a772f921905) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80d29ef490541295fc142bad69d54d7f') in 0.006723 seconds 
+  path: Assets/Lava
+  artifactKey: Guid(37f9e3dcd0cb2db40a96e338247cb8ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lava using Guid(37f9e3dcd0cb2db40a96e338247cb8ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a7eed159c00ae1750059f5b07ed675f') in 0.013183 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.101447 seconds.
+  path: Assets/Lava/Lava.mat
+  artifactKey: Guid(eaadf82d9906241498cf9fa0f13e22a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lava/Lava.mat using Guid(eaadf82d9906241498cf9fa0f13e22a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b24df792db91df632feb6fc1d38bca5f') in 0.110454 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.376023 seconds.
+  path: Assets/Lava/Lava.jpg
+  artifactKey: Guid(fa2780bb3f921d645b7a892cca1c54f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lava/Lava.jpg using Guid(fa2780bb3f921d645b7a892cca1c54f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a36bcc40333878d8a6f09ac9bc3182d') in 0.046964 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 23.280824 seconds.
+  path: Assets/Lava/Lava.mat
+  artifactKey: Guid(eaadf82d9906241498cf9fa0f13e22a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lava/Lava.mat using Guid(eaadf82d9906241498cf9fa0f13e22a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b32a30c969d7e9ea4e53352f98ed309') in 0.040413 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004431 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.843 seconds
+Domain Reload Profiling:
+	ReloadAssembly (843ms)
+		BeginReloadAssembly (104ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (30ms)
+		EndReloadAssembly (688ms)
+			LoadAssemblies (88ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (241ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (32ms)
+			SetupLoadedEditorAssemblies (254ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (75ms)
+				ProcessInitializeOnLoadAttributes (156ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.52 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1738 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 103.5 MB.
+System memory in use after: 103.6 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2255.
+Total: 2.680100 ms (FindLiveObjects: 0.127400 ms CreateObjectMapping: 0.036100 ms MarkObjects: 2.431900 ms  DeleteObjects: 0.083700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 325.258348 seconds.
+  path: Assets/Room/Materials/Cb.mat
+  artifactKey: Guid(e15b217798edf31438aa89a657069520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Room/Materials/Cb.mat using Guid(e15b217798edf31438aa89a657069520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30159fa08805bf6ad750f5494cb0c30a') in 0.062129 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000426 seconds.
+  path: Assets/Room/Materials/door texture 3.mat
+  artifactKey: Guid(0125ca191f4148048a1c1ac3f5604a7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Room/Materials/door texture 3.mat using Guid(0125ca191f4148048a1c1ac3f5604a7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cc4805cb9811befee58d56f338f81a0') in 0.035752 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000434 seconds.
+  path: Assets/Room/Materials/New Material.mat
+  artifactKey: Guid(e49591f711e327749bdcda233ddb5739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Room/Materials/New Material.mat using Guid(e49591f711e327749bdcda233ddb5739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67935531317a1ce00c01ce70f7d89082') in 0.028793 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000479 seconds.
+  path: Assets/Room/Materials/emesive.mat
+  artifactKey: Guid(87124d99a2e036247997145a1e6ebe65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Room/Materials/emesive.mat using Guid(87124d99a2e036247997145a1e6ebe65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75c9f824aa660a5b6a22ca8414cf924b') in 0.026767 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Room/Materials/the book texture.mat
+  artifactKey: Guid(34d6d6e0601f71746a3f73b41dabe7db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Room/Materials/the book texture.mat using Guid(34d6d6e0601f71746a3f73b41dabe7db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dbb07f8bd1a09cc9473dba3197019d8') in 0.022382 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Room/Materials/the chandelier.mat
+  artifactKey: Guid(c3c83b2f8e63ed040a4017762f424f15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Room/Materials/the chandelier.mat using Guid(c3c83b2f8e63ed040a4017762f424f15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '904716bda0a828d6397296bcad836b50') in 0.034591 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Room/Materials/marble_1_basecolor.mat
+  artifactKey: Guid(f991c1cd557e95f4d80bba54f5b172df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Room/Materials/marble_1_basecolor.mat using Guid(f991c1cd557e95f4d80bba54f5b172df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a92aeb489d7c0f1ba31c776fc3f308d') in 0.056254 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Room/Materials/Concrete wall smooth pillar texture.mat
+  artifactKey: Guid(d8e93e93675e6054ba325475d626aaca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Room/Materials/Concrete wall smooth pillar texture.mat using Guid(d8e93e93675e6054ba325475d626aaca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc533b03d083723c5f463d821e4651d0') in 0.028967 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Room/Materials/TexturesCom_WoodFine0003_seamless_S.mat
+  artifactKey: Guid(1c46437e882e4c94795a67bf556442e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Room/Materials/TexturesCom_WoodFine0003_seamless_S.mat using Guid(1c46437e882e4c94795a67bf556442e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faa6fd5259d51e3961144817778923fb') in 0.024978 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Room/Materials/the chandelier hand.mat
+  artifactKey: Guid(35d4f1a86e2a24a4bba528520bf472ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Room/Materials/the chandelier hand.mat using Guid(35d4f1a86e2a24a4bba528520bf472ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28cbf92e41ddfc45ed2ec864bf5c0679') in 0.022342 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Room/Materials/door texture 2.mat
+  artifactKey: Guid(e8815d90ef87b1a41b65ccf137bc03a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Room/Materials/door texture 2.mat using Guid(e8815d90ef87b1a41b65ccf137bc03a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '355413897f181788a59acfcc27c841d0') in 0.032028 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Room/Materials/door.mat
+  artifactKey: Guid(fd469ad073511c04993da31368543b44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Room/Materials/door.mat using Guid(fd469ad073511c04993da31368543b44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1273a1bc380db12c3d20dbcc2e1df774') in 0.016462 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Room/Materials/door texture 4.mat
+  artifactKey: Guid(a25d892bb22a044409043626140860f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Room/Materials/door texture 4.mat using Guid(a25d892bb22a044409043626140860f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a76ece5d2eee697a6f4bb120a630e0b') in 0.030097 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.034677 seconds.
+  path: Assets/Shelf/Materials/shelf.mat
+  artifactKey: Guid(1f3b093a4172fd14c8488bc1ca135651) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shelf/Materials/shelf.mat using Guid(1f3b093a4172fd14c8488bc1ca135651) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1b48d4652392ebea12860f5e1c9dddf') in 0.027327 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.864748 seconds.
+  path: Assets/Zombie/Materials/Plane.mat
+  artifactKey: Guid(e7ed6772552b9e4488b1398f8282ed3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Materials/Plane.mat using Guid(e7ed6772552b9e4488b1398f8282ed3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '745f10c378e66db729f6d8f4ba232b99') in 0.017013 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/Zombie/Materials/Zombie.mat
+  artifactKey: Guid(9fdb5531bdf185e448dd06dfa8192f8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Materials/Zombie.mat using Guid(9fdb5531bdf185e448dd06dfa8192f8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15539c0390bd7758dc1b7b19ef250a22') in 0.088087 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.161004 seconds.
+  path: Assets/Technical laboratory designer-V1_Room/Background 1.mat
+  artifactKey: Guid(5494f509f236dfc489c3464e5586047e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Technical laboratory designer-V1_Room/Background 1.mat using Guid(5494f509f236dfc489c3464e5586047e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ab1945a27f417ba1606d96072930090') in 0.018194 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000453 seconds.
+  path: Assets/Technical laboratory designer-V1_Room/Background 1.png
+  artifactKey: Guid(ba73f235140071c4dafd7d2246c44b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Technical laboratory designer-V1_Room/Background 1.png using Guid(ba73f235140071c4dafd7d2246c44b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc545f6b16d962e8a8b06047924678fc') in 0.024961 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.835613 seconds.
+  path: Assets/Technical laboratory designer-V1_Room/Materials
+  artifactKey: Guid(a353fb909ad47074ead11dbddc8c2793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Technical laboratory designer-V1_Room/Materials using Guid(a353fb909ad47074ead11dbddc8c2793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19807c05b5b02bcd47d607c5b95f7b47') in 0.007753 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.073188 seconds.
+  path: Assets/Technical laboratory designer-V1_Room/Materials/Floor.mat
+  artifactKey: Guid(6b136784cf61ad74b89352220bb69fe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Technical laboratory designer-V1_Room/Materials/Floor.mat using Guid(6b136784cf61ad74b89352220bb69fe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67871c3d99e2e24e1d923f026ba04195') in 0.221758 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Technical laboratory designer-V1_Room/Materials/material-2.mat
+  artifactKey: Guid(59900b2dac084664cb68c33f5a93ae3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Technical laboratory designer-V1_Room/Materials/material-2.mat using Guid(59900b2dac084664cb68c33f5a93ae3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a609b7faf529231ad830acc84c1dbad') in 0.238302 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/Technical laboratory designer-V1_Room/Materials/material-1.mat
+  artifactKey: Guid(57176a3ba506402438fd1d1b540d5926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Technical laboratory designer-V1_Room/Materials/material-1.mat using Guid(57176a3ba506402438fd1d1b540d5926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d68c491778cf38a554f3e664a4ee5b3') in 0.270534 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 79.932142 seconds.
+  path: Assets/BathroomPack/Materials/Bathtub.mat
+  artifactKey: Guid(0e4f6c0faa37bed4b8c556d1917631cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BathroomPack/Materials/Bathtub.mat using Guid(0e4f6c0faa37bed4b8c556d1917631cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce96a40ea7149aae701576ba109de5ea') in 0.166634 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/BathroomPack/Materials/Sink.mat
+  artifactKey: Guid(f2499f811bb2fa74b8166f7c16bc0b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BathroomPack/Materials/Sink.mat using Guid(f2499f811bb2fa74b8166f7c16bc0b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc3ca4d826b61bcca3f5128bad41ab72') in 0.152693 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000535 seconds.
+  path: Assets/BathroomPack/Materials/Shelf.mat
+  artifactKey: Guid(4f95935dda0873d45b0a0fe920abee79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BathroomPack/Materials/Shelf.mat using Guid(4f95935dda0873d45b0a0fe920abee79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67653edf0142d18926eda3928be6024c') in 0.159925 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/BathroomPack/Materials/ToiletBrush.mat
+  artifactKey: Guid(cf5efbf11f959ad4db269e493268a223) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BathroomPack/Materials/ToiletBrush.mat using Guid(cf5efbf11f959ad4db269e493268a223) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ccbe150068f47210f03b2bea383a709') in 0.167296 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/BathroomPack/Materials/ToiletPaper.mat
+  artifactKey: Guid(54394939981d24542b9e89746f6f5c08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BathroomPack/Materials/ToiletPaper.mat using Guid(54394939981d24542b9e89746f6f5c08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ffce075ace629324313ae34b1f480cc') in 0.166116 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/BathroomPack/Materials/Toilet.mat
+  artifactKey: Guid(f446e278ae54d6547a83978d757417ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BathroomPack/Materials/Toilet.mat using Guid(f446e278ae54d6547a83978d757417ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c0c839812e2b99100def0c1e12082ed') in 0.163187 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/BathroomPack/Materials/ToiletPaperHolder.mat
+  artifactKey: Guid(532b6026fa1a5f748801226add832e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BathroomPack/Materials/ToiletPaperHolder.mat using Guid(532b6026fa1a5f748801226add832e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a3d666e670b049f8d2b7f96614e4065') in 0.165153 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.992589 seconds.
+  path: Assets/PBR Table/_Models/Materials/Metal.mat
+  artifactKey: Guid(efa07ce449c439644942e3d00435374a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PBR Table/_Models/Materials/Metal.mat using Guid(efa07ce449c439644942e3d00435374a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a69c90f917a7e740266a6036730ab7c') in 0.315032 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000475 seconds.
+  path: Assets/PBR Table/_Models/Materials/Table_Wood.mat
+  artifactKey: Guid(bf920649a2f22254f85a4e053660bcb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PBR Table/_Models/Materials/Table_Wood.mat using Guid(bf920649a2f22254f85a4e053660bcb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac973671c120670889729727df4de44e') in 0.306051 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/PBR Table/_Models/Materials/Wood_Table.mat
+  artifactKey: Guid(fa5f250581178ac4083f417d08cef0c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PBR Table/_Models/Materials/Wood_Table.mat using Guid(fa5f250581178ac4083f417d08cef0c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f0bf3e34c9ae570f19d9300bbfb29a7') in 0.303998 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 26.935031 seconds.
+  path: Assets/Horror Hospital Pack/Materials/Floor/Concrete.png
+  artifactKey: Guid(f5bd2019bdaa6eb49ad38a6d00e1fd32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Hospital Pack/Materials/Floor/Concrete.png using Guid(f5bd2019bdaa6eb49ad38a6d00e1fd32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bcb7acc342467f5f6bc857535686e14') in 0.025481 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000565 seconds.
+  path: Assets/Horror Hospital Pack/Materials/Floor/mConcrete.mat
+  artifactKey: Guid(6706f85137508b84b8da9cdf75f3fe30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Hospital Pack/Materials/Floor/mConcrete.mat using Guid(6706f85137508b84b8da9cdf75f3fe30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb54c57d14726af8da48767b5df0fbb9') in 0.031447 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000426 seconds.
+  path: Assets/Horror Hospital Pack/Materials/Floor/mFloor.mat
+  artifactKey: Guid(55e0ca47a73def6408ffc66bc2e20c37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Hospital Pack/Materials/Floor/mFloor.mat using Guid(55e0ca47a73def6408ffc66bc2e20c37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '863878438ee59774f8e3266641b12cec') in 0.035823 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000594 seconds.
+  path: Assets/Horror Hospital Pack/Materials/Floor/test.png
+  artifactKey: Guid(29761e91e6ace924a9ff3256387b131d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Hospital Pack/Materials/Floor/test.png using Guid(29761e91e6ace924a9ff3256387b131d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e439b019de8511f59685ce2a2bc3de91') in 0.029332 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000451 seconds.
+  path: Assets/Horror Hospital Pack/Materials/Floor/Floor.png
+  artifactKey: Guid(0fc0fd7ae79f71d4482d5515b47471d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Hospital Pack/Materials/Floor/Floor.png using Guid(0fc0fd7ae79f71d4482d5515b47471d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38afd88340f70c732ba1689100f3d219') in 0.017459 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/Horror Hospital Pack/Materials/Floor/Concrete_n.png
+  artifactKey: Guid(1c3b6485b68544c4d9f243efb74a99dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Hospital Pack/Materials/Floor/Concrete_n.png using Guid(1c3b6485b68544c4d9f243efb74a99dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f6d9b3fffa6f2d2690496504ea0b8c6') in 0.020078 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/Horror Hospital Pack/Materials/Floor/FloorNormal.png
+  artifactKey: Guid(05908861fdda43f4d9d15301d0cc5125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Hospital Pack/Materials/Floor/FloorNormal.png using Guid(05908861fdda43f4d9d15301d0cc5125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '944525689dc0b6283b098de64a1e7c4f') in 0.017685 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004394 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.918 seconds
+Domain Reload Profiling:
+	ReloadAssembly (918ms)
+		BeginReloadAssembly (102ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (31ms)
+		EndReloadAssembly (767ms)
+			LoadAssemblies (86ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (248ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (44ms)
+			SetupLoadedEditorAssemblies (297ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (87ms)
+				ProcessInitializeOnLoadAttributes (180ms)
+				ProcessInitializeOnLoadMethodAttributes (18ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.87 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1738 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 103.6 MB.
+System memory in use after: 103.7 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2260.
+Total: 2.860600 ms (FindLiveObjects: 0.119700 ms CreateObjectMapping: 0.044500 ms MarkObjects: 2.596300 ms  DeleteObjects: 0.098300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004520 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.911 seconds
+Domain Reload Profiling:
+	ReloadAssembly (911ms)
+		BeginReloadAssembly (110ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (32ms)
+		EndReloadAssembly (751ms)
+			LoadAssemblies (96ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (255ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (42ms)
+			SetupLoadedEditorAssemblies (268ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (91ms)
+				ProcessInitializeOnLoadAttributes (154ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.85 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1738 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 103.7 MB.
+System memory in use after: 103.7 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2264.
+Total: 2.574700 ms (FindLiveObjects: 0.113500 ms CreateObjectMapping: 0.035900 ms MarkObjects: 2.335900 ms  DeleteObjects: 0.087800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 543.636865 seconds.
+  path: Assets/Scenes/LavaLevel.unity
+  artifactKey: Guid(761cc4c41a343664e8b18e2b317f5ac0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/LavaLevel.unity using Guid(761cc4c41a343664e8b18e2b317f5ac0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27f6104e7c9a4b18be418594bf52e4e1') in 0.011572 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 33.758097 seconds.
+  path: Assets/GoogleVR/Scripts/GvrCardboardHelpers.cs
+  artifactKey: Guid(cb5f458261eac491b9379eb30aec0947) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/GvrCardboardHelpers.cs using Guid(cb5f458261eac491b9379eb30aec0947) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '804876192a6bf52c29ae50954ee60f4a') in 0.010905 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.006331 seconds.
+  path: Assets/GoogleVR/Scripts/Internal/EditorCameraOriginDict.cs
+  artifactKey: Guid(02b299a09f800499f93a260fc5647d38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Internal/EditorCameraOriginDict.cs using Guid(02b299a09f800499f93a260fc5647d38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '955dbd6c927c01d198e243da6f408be1') in 0.010038 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003462 seconds.
+  path: Assets/DialogueEditor/Assets/Scripts/EditableCondition.cs
+  artifactKey: Guid(0912dec35a0e7f446b89119b48718c76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DialogueEditor/Assets/Scripts/EditableCondition.cs using Guid(0912dec35a0e7f446b89119b48718c76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b3c5cabee1dcca0f48f5d724e61960d') in 0.008049 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004383 seconds.
+  path: Assets/GoogleVR/Scripts/EventSystem/InputModule/GvrPointerInputModule.cs
+  artifactKey: Guid(fcd4baceb58cc40c98e500572bede6a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/EventSystem/InputModule/GvrPointerInputModule.cs using Guid(fcd4baceb58cc40c98e500572bede6a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64a694c4ebddd05090e41742148d426e') in 0.009018 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.005493 seconds.
+  path: Assets/GoogleVR/Editor/GvrEditorSettings.cs
+  artifactKey: Guid(ce0ec89649a704bd991b4db7e412794f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Editor/GvrEditorSettings.cs using Guid(ce0ec89649a704bd991b4db7e412794f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49e63d5d2802a64a056c82abc5380df0') in 0.007844 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.005025 seconds.
+  path: Assets/GoogleVR/Scripts/Controller/Tooltips/GvrControllerTooltipsSimple.cs
+  artifactKey: Guid(ef63f87a26b474e1c88f77dfc4f3aa3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Controller/Tooltips/GvrControllerTooltipsSimple.cs using Guid(ef63f87a26b474e1c88f77dfc4f3aa3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51024fc04444f4a94a9040382c593a17') in 0.008038 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004805 seconds.
+  path: Assets/Resources/Scripts/MovementWithConversation.cs
+  artifactKey: Guid(106ee151132ea0849af02166a139198f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Scripts/MovementWithConversation.cs using Guid(106ee151132ea0849af02166a139198f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f08879e367ed7a37d3ab07c20b74567') in 0.007036 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004335 seconds.
+  path: Assets/GoogleVR/Scripts/Utilities/Internal/SuppressMemoryAllocationErrorAttribute.cs
+  artifactKey: Guid(376a69755f4024896aac10f1916f8182) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Utilities/Internal/SuppressMemoryAllocationErrorAttribute.cs using Guid(376a69755f4024896aac10f1916f8182) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2921a009fef3fe876e8f3ec1dfdc8100') in 0.006992 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004444 seconds.
+  path: Assets/DialogueEditor/Assets/Scripts/Conversation.cs
+  artifactKey: Guid(82e9a334db16d9d4b883e9f324f1925f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DialogueEditor/Assets/Scripts/Conversation.cs using Guid(82e9a334db16d9d4b883e9f324f1925f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '435c42f53d3a5fb33e916d65d6fcb29e') in 0.007842 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003259 seconds.
+  path: Assets/GoogleVR/Beta/Scripts/GvrBetaControllerState.cs
+  artifactKey: Guid(63dd62cc4cd464485a1cb34634b6380e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Beta/Scripts/GvrBetaControllerState.cs using Guid(63dd62cc4cd464485a1cb34634b6380e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8294b904a9d294a8a5196cc62e9861cc') in 0.006302 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003502 seconds.
+  path: Assets/GoogleVR/Scripts/EventSystem/GvrPointerScrollInput.cs
+  artifactKey: Guid(23744ffc3b678488e858089d1a2973d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/EventSystem/GvrPointerScrollInput.cs using Guid(23744ffc3b678488e858089d1a2973d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b54710a568cd3b68cbe2d87f5ca5802b') in 0.005817 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004154 seconds.
+  path: Assets/GoogleVR/Scripts/Keyboard/Internal/KeyboardProviderFactory.cs
+  artifactKey: Guid(696c86fab86049947bd12e68a9b724cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Keyboard/Internal/KeyboardProviderFactory.cs using Guid(696c86fab86049947bd12e68a9b724cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b93830ac24a605ebe8f9ce167df1e5fe') in 0.007350 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004148 seconds.
+  path: Assets/DialogueEditor/Assets/Scripts/Editor/DialogueEditorUtil.cs
+  artifactKey: Guid(ba925e4862fc6fd4c8105a6e8bdcac53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DialogueEditor/Assets/Scripts/Editor/DialogueEditorUtil.cs using Guid(ba925e4862fc6fd4c8105a6e8bdcac53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3baeff5dd1352201ac0f79799929f9b') in 0.007986 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004021 seconds.
+  path: Assets/GoogleVR/Scripts/EventSystem/GvrScrollSettings.cs
+  artifactKey: Guid(5db1ab7348db34ecbac8c834c5d3425f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/EventSystem/GvrScrollSettings.cs using Guid(5db1ab7348db34ecbac8c834c5d3425f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d1c7731c7f2cfeb5a131deb89f6aa6d') in 0.006329 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003995 seconds.
+  path: Assets/GoogleVR/Scripts/Utilities/GvrMathHelpers.cs
+  artifactKey: Guid(2057fd0fa21f34bc2ba2dd2a4a2a38b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Utilities/GvrMathHelpers.cs using Guid(2057fd0fa21f34bc2ba2dd2a4a2a38b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '806d9a1003a7d2f5a0ac96d6972d42fb') in 0.006666 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003732 seconds.
+  path: Assets/GoogleVR/Scripts/Controller/Internal/Emulator/EmulatorClientSocket.cs
+  artifactKey: Guid(6bf1f92fb4ae24291b71e77c1ccac323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Controller/Internal/Emulator/EmulatorClientSocket.cs using Guid(6bf1f92fb4ae24291b71e77c1ccac323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2a5b2d5058a65f8d100171b0d0c9a57') in 0.008631 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003782 seconds.
+  path: Assets/GoogleVR/Scripts/Keyboard/Internal/KeyboardProviders/AndroidNativeKeyboardProvider.cs
+  artifactKey: Guid(494e0fcfce3cb4d1c973863b3ad4e5d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Keyboard/Internal/KeyboardProviders/AndroidNativeKeyboardProvider.cs using Guid(494e0fcfce3cb4d1c973863b3ad4e5d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ddc52f6244dd9b4c0f8ec634b5ba9d4') in 0.005569 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003022 seconds.
+  path: Assets/Resources/Scripts/WayPointCharacter.cs
+  artifactKey: Guid(f9ed019458199ab46a700f8e89d8b759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Scripts/WayPointCharacter.cs using Guid(f9ed019458199ab46a700f8e89d8b759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcd362959bcedcb67cb11779b2aa9b13') in 0.009379 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003938 seconds.
+  path: Assets/GoogleVR/Scripts/EventSystem/InputModule/IGvrInputModuleController.cs
+  artifactKey: Guid(118ed627eb676472d803284d1a988bbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/EventSystem/InputModule/IGvrInputModuleController.cs using Guid(118ed627eb676472d803284d1a988bbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2319af0b355fe7ec2b438a716235be9b') in 0.008613 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.006285 seconds.
+  path: Assets/GoogleVR/Scripts/EventSystem/GvrBasePointer.cs
+  artifactKey: Guid(41c83891d500f43ca90ce70315712c84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/EventSystem/GvrBasePointer.cs using Guid(41c83891d500f43ca90ce70315712c84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '950122a4c3a6fb9549e091b9d92b2c32') in 0.007857 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003860 seconds.
+  path: Assets/GoogleVR/Scripts/Controller/Internal/ControllerProviders/EditorControllerProvider.cs
+  artifactKey: Guid(e0a32f2191dec4e1b8e05acab6002be6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Controller/Internal/ControllerProviders/EditorControllerProvider.cs using Guid(e0a32f2191dec4e1b8e05acab6002be6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4135a4664b8f1f262a85956e415767c') in 0.010597 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003684 seconds.
+  path: Assets/GoogleVR/Scripts/EventSystem/GvrPointerEventData.cs
+  artifactKey: Guid(cd2cb616496014a37b6820203c567a77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/EventSystem/GvrPointerEventData.cs using Guid(cd2cb616496014a37b6820203c567a77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b812cabb5dd6b719bc6fe9e4ccfce828') in 0.007320 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.010730 seconds.
+  path: Assets/GoogleVR/Editor/InstantPreviewEditor.cs
+  artifactKey: Guid(f753bca1909314275a77fb53ced78d95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Editor/InstantPreviewEditor.cs using Guid(f753bca1909314275a77fb53ced78d95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b127bad0513f77962765b058f4b73d8c') in 0.006053 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003730 seconds.
+  path: Assets/GoogleVR/Scripts/Controller/Internal/ControllerState.cs
+  artifactKey: Guid(9159532a8a3d946aa9df74e771243e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Controller/Internal/ControllerState.cs using Guid(9159532a8a3d946aa9df74e771243e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a4695f18252efce6527166850c0e374') in 0.009263 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004121 seconds.
+  path: Assets/GoogleVR/Scripts/Keyboard/GvrKeyboard.cs
+  artifactKey: Guid(573e2b04dc4734d68a2b6747421ce0bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Keyboard/GvrKeyboard.cs using Guid(573e2b04dc4734d68a2b6747421ce0bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45b5f0854727a6957b2f11ecf9d8ac25') in 0.009215 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004133 seconds.
+  path: Assets/Resources/Scripts/Chase.cs
+  artifactKey: Guid(c775de301a1c4d94a8ac1d4c7be4a3c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Scripts/Chase.cs using Guid(c775de301a1c4d94a8ac1d4c7be4a3c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '661af9f585dba756a029177facbe4474') in 0.005788 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003526 seconds.
+  path: Assets/DialogueEditor/Assets/Scripts/Editor/DialogueEditorNode.cs
+  artifactKey: Guid(6337b0fbd89333a4090186be60557f85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DialogueEditor/Assets/Scripts/Editor/DialogueEditorNode.cs using Guid(6337b0fbd89333a4090186be60557f85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7a362f7ae1119a088a3183fb75ea7a4') in 0.006244 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003712 seconds.
+  path: Assets/GoogleVR/Beta/Scripts/GvrControllerInputDeviceExtension.cs
+  artifactKey: Guid(3ad1f53be83054af3bf2009537097ffe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Beta/Scripts/GvrControllerInputDeviceExtension.cs using Guid(3ad1f53be83054af3bf2009537097ffe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15780767535fb9fcc6b2d500584fce59') in 0.006152 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003303 seconds.
+  path: Assets/GoogleVR/Scripts/EventSystem/InputModule/GvrAllEventsTrigger.cs
+  artifactKey: Guid(ca0157c63fb794df89c6735fc602eca2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/EventSystem/InputModule/GvrAllEventsTrigger.cs using Guid(ca0157c63fb794df89c6735fc602eca2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3106cb70ba0a6acc1413045381e3aa3f') in 0.008091 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004190 seconds.
+  path: Assets/GoogleVR/Scripts/Controller/GvrRecenterOnlyController.cs
+  artifactKey: Guid(a5d8d09b9e5d2437aa022780a2ce8c83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Controller/GvrRecenterOnlyController.cs using Guid(a5d8d09b9e5d2437aa022780a2ce8c83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bda9e39bc73ad8f6076ca723e062227f') in 0.010873 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004485 seconds.
+  path: Assets/DialogueEditor/Assets/Scripts/Parameter.cs
+  artifactKey: Guid(939ee7bff254dab47b194309c478e02e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DialogueEditor/Assets/Scripts/Parameter.cs using Guid(939ee7bff254dab47b194309c478e02e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '061911585c93929de6f181237af34676') in 0.011004 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.005384 seconds.
+  path: Assets/GoogleVR/Scripts/Controller/Internal/ControllerUtils.cs
+  artifactKey: Guid(8358cf789a848412fbb10ba05c4f3fce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Controller/Internal/ControllerUtils.cs using Guid(8358cf789a848412fbb10ba05c4f3fce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2219a2b77833a61c17da5f032182dae7') in 0.008306 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004236 seconds.
+  path: Assets/DialogueEditor/Assets/Scripts/Connection.cs
+  artifactKey: Guid(d6d097eeec94fb44fa58a1666b548366) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DialogueEditor/Assets/Scripts/Connection.cs using Guid(d6d097eeec94fb44fa58a1666b548366) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ec6c26eeec32abb2abe00da3e86e84b') in 0.008922 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004104 seconds.
+  path: Assets/DialogueEditor/Assets/Scripts/EditableNode.cs
+  artifactKey: Guid(7c81c1b4bd15ae54c96ff25409737277) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DialogueEditor/Assets/Scripts/EditableNode.cs using Guid(7c81c1b4bd15ae54c96ff25409737277) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6866a5afc9add91476f2a98be784b18') in 0.007455 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013218 seconds.
+  path: Assets/GoogleVR/Scripts/Controller/ArmModel/GvrArmModel.cs
+  artifactKey: Guid(7dda4bb2d5509e44e978d2bf56e25d7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Controller/ArmModel/GvrArmModel.cs using Guid(7dda4bb2d5509e44e978d2bf56e25d7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f36aecd9cf6ff73247e67b8d7b274f2e') in 0.006639 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003508 seconds.
+  path: Assets/GoogleVR/Scripts/EventSystem/GvrXREventsSubscriber.cs
+  artifactKey: Guid(12a8088f6fe474f31bffbd957940f5fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/EventSystem/GvrXREventsSubscriber.cs using Guid(12a8088f6fe474f31bffbd957940f5fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2365ad66a221bc2e3b216f13f933e2b3') in 0.006199 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003621 seconds.
+  path: Assets/GoogleVR/Scripts/Controller/ArmModel/IGvrArmModelReceiver.cs
+  artifactKey: Guid(cb01f40fa958548a5b1f92a685e6d46d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Controller/ArmModel/IGvrArmModelReceiver.cs using Guid(cb01f40fa958548a5b1f92a685e6d46d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4914f319dee710dfd324372b9bec3646') in 0.005750 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003364 seconds.
+  path: Assets/GoogleVR/Beta/Scripts/Internal/GvrBetaEditorControllerInputProvider.cs
+  artifactKey: Guid(17819b7cdd6cd4bed942d6bac1692381) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Beta/Scripts/Internal/GvrBetaEditorControllerInputProvider.cs using Guid(17819b7cdd6cd4bed942d6bac1692381) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '444ea7d26b64822a32ea5b884662f7e0') in 0.007089 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003562 seconds.
+  path: Assets/GoogleVR/Scripts/Controller/ArmModel/GvrBaseArmModel.cs
+  artifactKey: Guid(b621d217eade547b4841c4471106b6e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Controller/ArmModel/GvrBaseArmModel.cs using Guid(b621d217eade547b4841c4471106b6e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c156cf09ead9616d5c1727eaad562f2') in 0.007137 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003938 seconds.
+  path: Assets/GoogleVR/Scripts/Controller/Internal/Emulator/EmulatorManager.cs
+  artifactKey: Guid(c42ca6bb02b364893b127c681c158442) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Controller/Internal/Emulator/EmulatorManager.cs using Guid(c42ca6bb02b364893b127c681c158442) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afb7ca50b9ef81788a80382b13833b3b') in 0.007075 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004635 seconds.
+  path: Assets/GoogleVR/Editor/Controller/GvrControllerVisualEditor.cs
+  artifactKey: Guid(05d7d64713447433b86cb9a4e3d48560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Editor/Controller/GvrControllerVisualEditor.cs using Guid(05d7d64713447433b86cb9a4e3d48560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e97c136e911b93361c26124d0db0c3a6') in 0.006717 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003831 seconds.
+  path: Assets/GoogleVR/Scripts/Controller/Internal/Emulator/EmulatorConfig.cs
+  artifactKey: Guid(a229fefd8ee7448b0b700f6000ebdec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Controller/Internal/Emulator/EmulatorConfig.cs using Guid(a229fefd8ee7448b0b700f6000ebdec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd58a3e9b4546ba27028ba918a5899ae') in 0.006162 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.006621 seconds.
+  path: Assets/Resources/Scripts/TextDialogue.cs
+  artifactKey: Guid(923ee5e37de39b847ad4852a9690eb82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Scripts/TextDialogue.cs using Guid(923ee5e37de39b847ad4852a9690eb82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa266188fef4a638392a4dbf37762488') in 0.006866 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003431 seconds.
+  path: Assets/GoogleVR/Beta/Scripts/GvrBetaControllerVisualMulti.cs
+  artifactKey: Guid(1d5f98cfdb173ab4db83e5e352f4157d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Beta/Scripts/GvrBetaControllerVisualMulti.cs using Guid(1d5f98cfdb173ab4db83e5e352f4157d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4d14da338f962ffac5458707a88e4ef') in 0.006520 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003402 seconds.
+  path: Assets/GoogleVR/Scripts/EventSystem/GvrPointerEventDataExtension.cs
+  artifactKey: Guid(9387b16b3e4094244adb0bf7dc9ca17a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/EventSystem/GvrPointerEventDataExtension.cs using Guid(9387b16b3e4094244adb0bf7dc9ca17a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35e6fae977e502552e3b3ab3860e2a59') in 0.005948 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003304 seconds.
+  path: Assets/GoogleVR/Scripts/Controller/Internal/ControllerProviders/EmulatorControllerProvider.cs
+  artifactKey: Guid(0ca644865f5f4479fb50471605078cf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Controller/Internal/ControllerProviders/EmulatorControllerProvider.cs using Guid(0ca644865f5f4479fb50471605078cf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb2028318f5649e50fe6b1b30f5bdc96') in 0.005523 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003388 seconds.
+  path: Assets/GoogleVR/Scripts/EventSystem/GvrPointerGraphicRaycaster.cs
+  artifactKey: Guid(739800cd36aba44e9b04ce977e5784bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/EventSystem/GvrPointerGraphicRaycaster.cs using Guid(739800cd36aba44e9b04ce977e5784bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a104f189ac0c456e559466659b1b9857') in 0.005854 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003485 seconds.
+  path: Assets/DialogueEditor/Assets/Scripts/EditableParameter.cs
+  artifactKey: Guid(fe24a1a08deb13f46a25f672af773e33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DialogueEditor/Assets/Scripts/EditableParameter.cs using Guid(fe24a1a08deb13f46a25f672af773e33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89f30905df0c2a7c4e063317ec2d5479') in 0.009068 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003383 seconds.
+  path: Assets/GoogleVR/Scripts/Utilities/GvrIntent.cs
+  artifactKey: Guid(9961197a3979a4fa684159098ac5881f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Utilities/GvrIntent.cs using Guid(9961197a3979a4fa684159098ac5881f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53d6511ab39fc91056a1382c9582dc26') in 0.007957 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003545 seconds.
+  path: Assets/GoogleVR/Editor/EventSystem/GvrPointerScrollInputEditor.cs
+  artifactKey: Guid(da538b2d940864934bfd4a6f2e6d0602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Editor/EventSystem/GvrPointerScrollInputEditor.cs using Guid(da538b2d940864934bfd4a6f2e6d0602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '571a1a59049c77dd4f82f63608239ad9') in 0.010459 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003778 seconds.
+  path: Assets/GoogleVR/Scripts/EventSystem/InputModule/IGvrEventExecutor.cs
+  artifactKey: Guid(171f0a30d9ead4516a8fa319cfebe270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/EventSystem/InputModule/IGvrEventExecutor.cs using Guid(171f0a30d9ead4516a8fa319cfebe270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4d63562135c45c949a3115fd1ef58fc') in 0.006443 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003632 seconds.
+  path: Assets/GoogleVR/Scripts/Utilities/GvrActivityHelper.cs
+  artifactKey: Guid(a89c2f792b6ed4b3c8e3d82ed9b3c4cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Utilities/GvrActivityHelper.cs using Guid(a89c2f792b6ed4b3c8e3d82ed9b3c4cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6b16c8d81e492737269aeaba5c5f32f') in 0.009930 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004087 seconds.
+  path: Assets/GoogleVR/Scripts/Cardboard/GvrReticlePointer.cs
+  artifactKey: Guid(e7dcc90c2e60c4011896c7f21fc1f557) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Cardboard/GvrReticlePointer.cs using Guid(e7dcc90c2e60c4011896c7f21fc1f557) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1200b4b5fb2b4bfeb5a396560ff8dd9b') in 0.006526 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004131 seconds.
+  path: Assets/GoogleVR/Scripts/Video/GvrVideoPlayerTexture.cs
+  artifactKey: Guid(410d5a91205334dda9fd1bf3d325809a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Video/GvrVideoPlayerTexture.cs using Guid(410d5a91205334dda9fd1bf3d325809a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5678e1aa3689b9fc5bbcdc8fd623231') in 0.010385 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.009245 seconds.
+  path: Assets/GoogleVR/Scripts/Keyboard/Internal/KeyboardProviders/DummyKeyboardProvider.cs
+  artifactKey: Guid(b9fcd2a047ec9c440a2bfeace305c425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Keyboard/Internal/KeyboardProviders/DummyKeyboardProvider.cs using Guid(b9fcd2a047ec9c440a2bfeace305c425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dd814595011a388486457286766ca10') in 0.005960 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004729 seconds.
+  path: Assets/DialogueEditor/Assets/Scripts/UI/ConversationManager.cs
+  artifactKey: Guid(28fe614b88daf184a841493ff6bdcd86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DialogueEditor/Assets/Scripts/UI/ConversationManager.cs using Guid(28fe614b88daf184a841493ff6bdcd86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb30818ff02d67dbeb119ddc36345b41') in 0.009187 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003594 seconds.
+  path: Assets/GoogleVR/Scripts/Controller/GvrControllerVisual.cs
+  artifactKey: Guid(aa952cbcc0eb13d4ca558b6da550ff55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Controller/GvrControllerVisual.cs using Guid(aa952cbcc0eb13d4ca558b6da550ff55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bed2d0ea3ed51a063c6e3555a865c42d') in 0.008622 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004418 seconds.
+  path: Assets/GoogleVR/Scripts/Controller/Internal/ControllerProviders/MouseControllerProvider.cs
+  artifactKey: Guid(d8b9c789363a44b1e87727b1c4d085f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Controller/Internal/ControllerProviders/MouseControllerProvider.cs using Guid(d8b9c789363a44b1e87727b1c4d085f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7db76da31dcae7946335bd9574625853') in 0.007181 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004117 seconds.
+  path: Assets/GoogleVR/Scripts/EventSystem/IGvrPointerHoverHandler.cs
+  artifactKey: Guid(e7441953e05443d4fa517d1ce7382b0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/EventSystem/IGvrPointerHoverHandler.cs using Guid(e7441953e05443d4fa517d1ce7382b0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd6822a081e1c040a614c78bdd1b2b60') in 0.006463 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003747 seconds.
+  path: Assets/GoogleVR/Scripts/EventSystem/InputModule/GvrPointerInputModuleImpl.cs
+  artifactKey: Guid(d2e5fe232b3b94de2a12eb364ebc371e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/EventSystem/InputModule/GvrPointerInputModuleImpl.cs using Guid(d2e5fe232b3b94de2a12eb364ebc371e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0b6a8611fe00102633f00c6201929c8') in 0.009183 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004490 seconds.
+  path: Assets/GoogleVR/Scripts/Keyboard/GvrKeyboardDelegateBase.cs
+  artifactKey: Guid(3590c93395a39449ca11509317375cea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Keyboard/GvrKeyboardDelegateBase.cs using Guid(3590c93395a39449ca11509317375cea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9589dbb5bab91a8536611427841c424') in 0.006055 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004003 seconds.
+  path: Assets/GoogleVR/Scripts/Keyboard/Internal/KeyboardProviders/EmulatorKeyboardProvider.cs
+  artifactKey: Guid(f73feeef531a54f2a8cf5b05a8c06e58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Keyboard/Internal/KeyboardProviders/EmulatorKeyboardProvider.cs using Guid(f73feeef531a54f2a8cf5b05a8c06e58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2babe5e22465e37146b663c7ae1dca0c') in 0.007603 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.008822 seconds.
+  path: Assets/DialogueEditor/Assets/Scripts/UI/UIConversationButton.cs
+  artifactKey: Guid(6836ccfe657b620409189dab4cfc5a2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DialogueEditor/Assets/Scripts/UI/UIConversationButton.cs using Guid(6836ccfe657b620409189dab4cfc5a2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8d7251a3d966fa634f9c076015ba2cf') in 0.005363 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003678 seconds.
+  path: Assets/DialogueEditor/Assets/Scripts/EditableSetParamAction.cs
+  artifactKey: Guid(f83650c2702f5e94398cd90e4888d38a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DialogueEditor/Assets/Scripts/EditableSetParamAction.cs using Guid(f83650c2702f5e94398cd90e4888d38a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6f72f977f4711f7b058615ea597800f') in 0.007401 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003870 seconds.
+  path: Assets/Resources/Scripts/WayPoint.cs
+  artifactKey: Guid(c96f5971621e4994aa09178b05e20ea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Scripts/WayPoint.cs using Guid(c96f5971621e4994aa09178b05e20ea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4f4f86d1ab6850687dcfbc5821cfbe1') in 0.006166 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003963 seconds.
+  path: Assets/DialogueEditor/Assets/Scripts/UI/Editor/ConversationManagerEditor.cs
+  artifactKey: Guid(aa9eab11447b56c438b2b1769572b758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DialogueEditor/Assets/Scripts/UI/Editor/ConversationManagerEditor.cs using Guid(aa9eab11447b56c438b2b1769572b758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98726c55d16c49f04a8678c0f6e8d68d') in 0.009975 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003253 seconds.
+  path: Assets/GoogleVR/Scripts/Permissions/GvrPermissionsRequester.cs
+  artifactKey: Guid(b0dc366f6bd074945a86579cd29111b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Permissions/GvrPermissionsRequester.cs using Guid(b0dc366f6bd074945a86579cd29111b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86727961c672f5abe949a2d4088bdd0f') in 0.010594 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003438 seconds.
+  path: Assets/GoogleVR/Scripts/GvrEditorEmulator.cs
+  artifactKey: Guid(41679d3338266415f88d226e6bf3d0be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/GvrEditorEmulator.cs using Guid(41679d3338266415f88d226e6bf3d0be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93a148d92d785cada9afd44ece6101d8') in 0.005890 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003601 seconds.
+  path: Assets/GoogleVR/Scripts/Controller/GvrControllerInputDevice.cs
+  artifactKey: Guid(7b912427c85634a3fa13020a8d93c38a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Controller/GvrControllerInputDevice.cs using Guid(7b912427c85634a3fa13020a8d93c38a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53a76e3e4aec5240eed68f5831f00c7b') in 0.009239 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.008460 seconds.
+  path: Assets/GoogleVR/Scripts/Keyboard/Internal/KeyboardState.cs
+  artifactKey: Guid(5baa0455970b442238015283920cc587) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Keyboard/Internal/KeyboardState.cs using Guid(5baa0455970b442238015283920cc587) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c24021702c920dc9570c65361e3bcaa') in 0.007866 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003615 seconds.
+  path: Assets/GoogleVR/Beta/Scripts/GvrBetaControllerInput.cs
+  artifactKey: Guid(e10e28d2cc4e040d392ffbd22271fec0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Beta/Scripts/GvrBetaControllerInput.cs using Guid(e10e28d2cc4e040d392ffbd22271fec0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c9bdec33407caaff3987b50d60e29dc') in 0.005826 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003297 seconds.
+  path: Assets/GoogleVR/Scripts/Controller/GvrLaserPointer.cs
+  artifactKey: Guid(51b65678ccdd949e9a58874d2880c0ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Controller/GvrLaserPointer.cs using Guid(51b65678ccdd949e9a58874d2880c0ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc1aa2ce22cc61c9c6661645255a51e6') in 0.007659 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003928 seconds.
+  path: Assets/GoogleVR/Scripts/Controller/GvrLaserVisual.cs
+  artifactKey: Guid(f4ee199cdc1304b2090f019e4f488674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Controller/GvrLaserVisual.cs using Guid(f4ee199cdc1304b2090f019e4f488674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d3476c1c9830322b0ac8866ea2b529a') in 0.008643 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004130 seconds.
+  path: Assets/Scripts/GazeInput.cs
+  artifactKey: Guid(7b754a142d4d03b44b76125d7e1c948f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GazeInput.cs using Guid(7b754a142d4d03b44b76125d7e1c948f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fd0620aa4ffae8a692addfed05197ed') in 0.005922 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004482 seconds.
+  path: Assets/DialogueEditor/Assets/Scripts/NPCConversation.cs
+  artifactKey: Guid(83189876d4d389f43b7dd2e925aa112e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DialogueEditor/Assets/Scripts/NPCConversation.cs using Guid(83189876d4d389f43b7dd2e925aa112e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fccccaec78a7d0b32ce9a9c25cb323b0') in 0.008982 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003813 seconds.
+  path: Assets/GoogleVR/Editor/Controller/GvrLaserVisualEditor.cs
+  artifactKey: Guid(66fe40e11a2514648906e6825b026b85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Editor/Controller/GvrLaserVisualEditor.cs using Guid(66fe40e11a2514648906e6825b026b85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3889942986aff7069aeff8093870f101') in 0.010213 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003885 seconds.
+  path: Assets/GoogleVR/Scripts/EventSystem/GvrPointerPhysicsRaycaster.cs
+  artifactKey: Guid(eb5dd43baba2d4dc1bab789615567e3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/EventSystem/GvrPointerPhysicsRaycaster.cs using Guid(eb5dd43baba2d4dc1bab789615567e3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcd06c9dc7e3d85f2a3e1ba37fe00edb') in 0.009786 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003903 seconds.
+  path: Assets/GoogleVR/Scripts/PropertyDrawers/GvrInfo.cs
+  artifactKey: Guid(a4b523c05131b4a8cb07cc3780329acc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/PropertyDrawers/GvrInfo.cs using Guid(a4b523c05131b4a8cb07cc3780329acc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08c9823f3dc728ed3355b318fce59fed') in 0.008770 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004168 seconds.
+  path: Assets/DialogueEditor/Example/ExampleInputManager.cs
+  artifactKey: Guid(c4631f1051d8ac84fac652d4fe4c1d05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DialogueEditor/Example/ExampleInputManager.cs using Guid(c4631f1051d8ac84fac652d4fe4c1d05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd61834315b23aff8178607a128c89bd5') in 0.006093 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004221 seconds.
+  path: Assets/GoogleVR/Scripts/Pose3D.cs
+  artifactKey: Guid(d6dc4d56dabb6444a8fda878f2e8acc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Pose3D.cs using Guid(d6dc4d56dabb6444a8fda878f2e8acc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0227ade105ee926900592af88eed0382') in 0.010741 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004682 seconds.
+  path: Assets/GoogleVR/Scripts/Controller/Internal/IControllerProvider.cs
+  artifactKey: Guid(a546592901a23411d99a5fef0ada01e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Controller/Internal/IControllerProvider.cs using Guid(a546592901a23411d99a5fef0ada01e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75f0dd14b59ce1f7d379612ff0252e3a') in 0.006979 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004195 seconds.
+  path: Assets/GoogleVR/Scripts/Controller/Internal/ControllerProviders/DummyControllerProvider.cs
+  artifactKey: Guid(0f791be37caef48c79f72011276ab16a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Controller/Internal/ControllerProviders/DummyControllerProvider.cs using Guid(0f791be37caef48c79f72011276ab16a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '878b0b9b936e615d62044a6dabcbf203') in 0.006573 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004097 seconds.
+  path: Assets/GoogleVR/Scripts/InstantPreview/Internal/InstantPreview.cs
+  artifactKey: Guid(7528488988f9d48478da328909125dea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/InstantPreview/Internal/InstantPreview.cs using Guid(7528488988f9d48478da328909125dea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe3cc0ea70a52aebb36d6a4acf663402') in 0.007396 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004226 seconds.
+  path: Assets/GoogleVR/Scripts/Controller/Internal/Emulator/EmulatorDataTypes.cs
+  artifactKey: Guid(76d2b695633884daf905c07095c8a01c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Controller/Internal/Emulator/EmulatorDataTypes.cs using Guid(76d2b695633884daf905c07095c8a01c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e53487886254eb3cd41536d8de26df9') in 0.005692 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003503 seconds.
+  path: Assets/GoogleVR/Scripts/GvrSettings.cs
+  artifactKey: Guid(c485d86d5e69340f09123a723b06bc87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/GvrSettings.cs using Guid(c485d86d5e69340f09123a723b06bc87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21ff91e5f47b39a875e8b389d6eac487') in 0.010690 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004113 seconds.
+  path: Assets/DialogueEditor/Assets/Scripts/SetParamAction.cs
+  artifactKey: Guid(da1b9e5199a3f614aa225d42f1c85c2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DialogueEditor/Assets/Scripts/SetParamAction.cs using Guid(da1b9e5199a3f614aa225d42f1c85c2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaaca20deafaaef9b8220d7524b517b2') in 0.011097 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004749 seconds.
+  path: Assets/GoogleVR/Scripts/Controller/Tooltips/GvrTooltip.cs
+  artifactKey: Guid(7c52851ea0de74a228fa29a84de008ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Controller/Tooltips/GvrTooltip.cs using Guid(7c52851ea0de74a228fa29a84de008ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33d914efc3469406695af4ca9d410875') in 0.008074 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004286 seconds.
+  path: Assets/GoogleVR/Editor/Controller/GvrLaserPointerEditor.cs
+  artifactKey: Guid(cc6e38fe705a640ba9cc80555465b13e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Editor/Controller/GvrLaserPointerEditor.cs using Guid(cc6e38fe705a640ba9cc80555465b13e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f95f5c5907e482f0421287dbd5e9a0d') in 0.010937 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004170 seconds.
+  path: Assets/GoogleVR/Scripts/Controller/IGvrControllerInputDeviceReceiver.cs
+  artifactKey: Guid(2a4fdc21aee934d82baa564e797da921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Controller/IGvrControllerInputDeviceReceiver.cs using Guid(2a4fdc21aee934d82baa564e797da921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a78cd62e4c2800dc786e67a7a9366525') in 0.010466 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.005015 seconds.
+  path: Assets/GoogleVR/Scripts/Controller/GvrControllerInput.cs
+  artifactKey: Guid(41251d5f89d5546bb9d8ba907686b71f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Controller/GvrControllerInput.cs using Guid(41251d5f89d5546bb9d8ba907686b71f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b0625c970ea1b22b4614da84aaf4c34') in 0.010261 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.005252 seconds.
+  path: Assets/GoogleVR/Scripts/Controller/Internal/ControllerProviderFactory.cs
+  artifactKey: Guid(9f9210011b71142d5966eec2db6cc696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Controller/Internal/ControllerProviderFactory.cs using Guid(9f9210011b71142d5966eec2db6cc696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d003c46607c58e526d58205f893e47d') in 0.007293 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004624 seconds.
+  path: Assets/GoogleVR/Beta/Scripts/Internal/GvrBetaAndroidNativeControllerInputProvider.cs
+  artifactKey: Guid(3c88f74ab5b2a4da485361f0518f33d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Beta/Scripts/Internal/GvrBetaAndroidNativeControllerInputProvider.cs using Guid(3c88f74ab5b2a4da485361f0518f33d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4015264a7b067e3dc5a533055c6eb765') in 0.005940 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004340 seconds.
+  path: Assets/GoogleVR/Scripts/Utilities/GvrVRHelpers.cs
+  artifactKey: Guid(d0dea43be37504c45ab74cf9fcfbf34a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Utilities/GvrVRHelpers.cs using Guid(d0dea43be37504c45ab74cf9fcfbf34a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32d635e051d639cbf4cee7185b0a860a') in 0.010479 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004750 seconds.
+  path: Assets/Resources/Scripts/Movement.cs
+  artifactKey: Guid(6e33c7762478dc045b2df026a81847b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Scripts/Movement.cs using Guid(6e33c7762478dc045b2df026a81847b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc2416ea5f470388efd6a7393a7cd1e8') in 0.005505 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004598 seconds.
+  path: Assets/GoogleVR/Editor/GvrBuildProcessor.cs
+  artifactKey: Guid(acad0e6b1721a4b30992f78c06434321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Editor/GvrBuildProcessor.cs using Guid(acad0e6b1721a4b30992f78c06434321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a55c972840c339c49920dbdeb3d9eb4b') in 0.006426 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003447 seconds.
+  path: Assets/DialogueEditor/Assets/Scripts/NodeEventHolder.cs
+  artifactKey: Guid(00abedce3cdbbba46bf2d86c9518c9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DialogueEditor/Assets/Scripts/NodeEventHolder.cs using Guid(00abedce3cdbbba46bf2d86c9518c9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0abad9073f17b6e533ed9731f61a10eb') in 0.007571 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004355 seconds.
+  path: Assets/GoogleVR/Scripts/UI/GvrDropdown.cs
+  artifactKey: Guid(fbdf93500b5014ec9872a59cb683089a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/UI/GvrDropdown.cs using Guid(fbdf93500b5014ec9872a59cb683089a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3277ec5abe39bd5161476b9d66255196') in 0.009395 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004754 seconds.
+  path: Assets/GoogleVR/Scripts/EventSystem/GvrExecuteEventsExtension.cs
+  artifactKey: Guid(2a443597ee157fe49a30c4310f1fb2eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/EventSystem/GvrExecuteEventsExtension.cs using Guid(2a443597ee157fe49a30c4310f1fb2eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f7bc8f448a1183ee7d4e37255604284') in 0.008110 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004165 seconds.
+  path: Assets/GoogleVR/Editor/GvrEditorEmulatorEditor.cs
+  artifactKey: Guid(f789f1d07e73f42b398b211da58efc42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Editor/GvrEditorEmulatorEditor.cs using Guid(f789f1d07e73f42b398b211da58efc42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5561c6b94a4d817cc4718a67b5e3744') in 0.006313 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003913 seconds.
+  path: Assets/GoogleVR/Scripts/Keyboard/Internal/IKeyboardProvider.cs
+  artifactKey: Guid(1f16e78d5a8cbe946b9dbaad22815581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Keyboard/Internal/IKeyboardProvider.cs using Guid(1f16e78d5a8cbe946b9dbaad22815581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a27ef3107f6f1fe137e729a922d5089') in 0.010630 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004518 seconds.
+  path: Assets/DialogueEditor/Assets/Scripts/Editor/DialogueEditorWindow.cs
+  artifactKey: Guid(c3a0a541ab09d9b49a6bf18092909188) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DialogueEditor/Assets/Scripts/Editor/DialogueEditorWindow.cs using Guid(c3a0a541ab09d9b49a6bf18092909188) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a38177ca0ecb5e2605f80bc0171fd6ac') in 0.006224 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.009125 seconds.
+  path: Assets/GoogleVR/Scripts/Controller/GvrTrackedController.cs
+  artifactKey: Guid(311793381eb9d45149dc1a422000a9fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Controller/GvrTrackedController.cs using Guid(311793381eb9d45149dc1a422000a9fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1284b1cf24575f7c7183d019e7241c31') in 0.010887 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004034 seconds.
+  path: Assets/GoogleVR/Scripts/GvrUnitySdkVersion.cs
+  artifactKey: Guid(12bd1ba026e3d49a285ef666388aa4e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/GvrUnitySdkVersion.cs using Guid(12bd1ba026e3d49a285ef666388aa4e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9304c5dba8bb5f31166bf4b97fc91c2e') in 0.010746 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004184 seconds.
+  path: Assets/GoogleVR/Scripts/Utilities/Internal/GvrCursorHelper.cs
+  artifactKey: Guid(b6ecee1e7b5ef4412ba89d59a49afd69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Utilities/Internal/GvrCursorHelper.cs using Guid(b6ecee1e7b5ef4412ba89d59a49afd69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc764a72730beb3a777d328076ba36b4') in 0.011161 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.005062 seconds.
+  path: Assets/DialogueEditor/Assets/Scripts/ConversationNode.cs
+  artifactKey: Guid(b1df9c6ac4e40c14587ffbcae658484e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DialogueEditor/Assets/Scripts/ConversationNode.cs using Guid(b1df9c6ac4e40c14587ffbcae658484e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f6c0e3d272ee4b0b78d04ad932b4166') in 0.008349 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004279 seconds.
+  path: Assets/GoogleVR/Editor/Controller/GvrTooltipEditor.cs
+  artifactKey: Guid(23485e28fa60c463f8235998a0e76e6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Editor/Controller/GvrTooltipEditor.cs using Guid(23485e28fa60c463f8235998a0e76e6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05ed58e7ec30131a5ed6986f363549ae') in 0.006447 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004080 seconds.
+  path: Assets/GoogleVR/Scripts/EventSystem/InputModule/GvrEventExecutor.cs
+  artifactKey: Guid(8a93ebe04d36b49c388adce4ac442226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/EventSystem/InputModule/GvrEventExecutor.cs using Guid(8a93ebe04d36b49c388adce4ac442226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ff80d765f94d1b67f0d5555cb1ded01') in 0.010435 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004768 seconds.
+  path: Assets/DialogueEditor/Assets/Scripts/EditableConversation.cs
+  artifactKey: Guid(bf604bea2524244438cb8f7c28b2da3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DialogueEditor/Assets/Scripts/EditableConversation.cs using Guid(bf604bea2524244438cb8f7c28b2da3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0f38a6ee8f611ddf3df52595963dbdc') in 0.007000 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004101 seconds.
+  path: Assets/GoogleVR/Scripts/EventSystem/GvrBasePointerRaycaster.cs
+  artifactKey: Guid(b05767d6e8b854cd0987b344898cc15d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/EventSystem/GvrBasePointerRaycaster.cs using Guid(b05767d6e8b854cd0987b344898cc15d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2722268ad8aebade3300289047fce615') in 0.010622 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004570 seconds.
+  path: Assets/GoogleVR/Scripts/PropertyDrawers/GvrInfoDrawer.cs
+  artifactKey: Guid(c173d28b2a4224c52a4c8ea503f4e2b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/PropertyDrawers/GvrInfoDrawer.cs using Guid(c173d28b2a4224c52a4c8ea503f4e2b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c794633d9ccaf27cd18f291571495943') in 0.010526 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004231 seconds.
+  path: Assets/DialogueEditor/Assets/Scripts/Condition.cs
+  artifactKey: Guid(163ee6b33523b9f4c97cb88cd9a737f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DialogueEditor/Assets/Scripts/Condition.cs using Guid(163ee6b33523b9f4c97cb88cd9a737f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e055e4a780d4c66395dd9bd3f0eb851b') in 0.006230 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004591 seconds.
+  path: Assets/GoogleVR/Scripts/Keyboard/GvrKeyboardIntent.cs
+  artifactKey: Guid(75e29b2b7f39fc5489e792b0f3338c79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Keyboard/GvrKeyboardIntent.cs using Guid(75e29b2b7f39fc5489e792b0f3338c79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6dd9e0d731cb75edbeb94066d162def') in 0.009728 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003792 seconds.
+  path: Assets/GoogleVR/Scripts/Controller/GvrControllerReticleVisual.cs
+  artifactKey: Guid(b5cd7f7fcfc8a4c1fbc201ccc579556d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Controller/GvrControllerReticleVisual.cs using Guid(b5cd7f7fcfc8a4c1fbc201ccc579556d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25dfd36571bf342f9b521d790e67f60c') in 0.010081 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004152 seconds.
+  path: Assets/GoogleVR/Scripts/InstantPreview/InstantPreviewHelper.cs
+  artifactKey: Guid(1b78ffabb50d1e94ca164106f5444e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/InstantPreview/InstantPreviewHelper.cs using Guid(1b78ffabb50d1e94ca164106f5444e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2e98458ee7bfc0baa31a3bb7d6c254b') in 0.007025 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004135 seconds.
+  path: Assets/GoogleVR/Scripts/Utilities/GvrDaydreamApi.cs
+  artifactKey: Guid(c4d57836d4e064f449f3e2f03330e9ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Utilities/GvrDaydreamApi.cs using Guid(c4d57836d4e064f449f3e2f03330e9ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52a4b786313cae0477eb2678f99e9006') in 0.006875 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004504 seconds.
+  path: Assets/GoogleVR/Scripts/Controller/Internal/Emulator/Generated/PhoneEvent.cs
+  artifactKey: Guid(1a6b456eb0cd540a489e0f82c377b187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Controller/Internal/Emulator/Generated/PhoneEvent.cs using Guid(1a6b456eb0cd540a489e0f82c377b187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f688ffc2b72a4ce918953ee959fdc194') in 0.011302 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004319 seconds.
+  path: Assets/GoogleVR/Scripts/Utilities/GvrUIHelpers.cs
+  artifactKey: Guid(00f93e3df109d4a69834d44deb072725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Utilities/GvrUIHelpers.cs using Guid(00f93e3df109d4a69834d44deb072725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87a43ff4f976c03f3d45cb1f6138b714') in 0.005782 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004555 seconds.
+  path: Assets/DialogueEditor/Assets/Scripts/Editor/NPCConversationEditor.cs
+  artifactKey: Guid(2218c4426fffaab46ac5a0467735500e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DialogueEditor/Assets/Scripts/Editor/NPCConversationEditor.cs using Guid(2218c4426fffaab46ac5a0467735500e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eee97fef12fc9313e764ac9663ac50b5') in 0.008149 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004242 seconds.
+  path: Assets/GoogleVR/Scripts/EventSystem/IGvrScrollSettings.cs
+  artifactKey: Guid(e4a605c315b944e7f84ed1dbe9ff6921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/EventSystem/IGvrScrollSettings.cs using Guid(e4a605c315b944e7f84ed1dbe9ff6921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c9104a00e541839c1fa980b99251e1f') in 0.006711 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003831 seconds.
+  path: Assets/DialogueEditor/Assets/Scripts/EditableConnection.cs
+  artifactKey: Guid(f8a40399a3a8d4547bf1b2129d650ab1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DialogueEditor/Assets/Scripts/EditableConnection.cs using Guid(f8a40399a3a8d4547bf1b2129d650ab1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fc46db1c50f00389bd9ae3468ed30a8') in 0.010377 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003866 seconds.
+  path: Assets/GoogleVR/Editor/GvrEditorMenu.cs
+  artifactKey: Guid(5eb60798954e54a7280c0cd353773edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Editor/GvrEditorMenu.cs using Guid(5eb60798954e54a7280c0cd353773edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e333918091a5733debe60df8d4090a3') in 0.009502 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.005457 seconds.
+  path: Assets/GoogleVR/Scripts/InstantPreview/Internal/InstantPreviewControllerProvider.cs
+  artifactKey: Guid(c36f3afb2cb4ef840bf3183652900afe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/InstantPreview/Internal/InstantPreviewControllerProvider.cs using Guid(c36f3afb2cb4ef840bf3183652900afe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed1375a000d59c60bb241678d7da5374') in 0.009531 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004436 seconds.
+  path: Assets/Resources/Scripts/LookAround.cs
+  artifactKey: Guid(b22ef2c5ec10da749b35af375635c155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Scripts/LookAround.cs using Guid(b22ef2c5ec10da749b35af375635c155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f97a78e5b2b4580441b93f2e210858f4') in 0.008257 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004770 seconds.
+  path: Assets/GoogleVR/Plugins/Google.ProtocolBuffers.dll
+  artifactKey: Guid(eb0b9a42141e349a6a47f93165aeca3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Plugins/Google.ProtocolBuffers.dll using Guid(eb0b9a42141e349a6a47f93165aeca3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '909076a18d718c5d9d90af8e3d39570a') in 0.007639 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003701 seconds.
+  path: Assets/Resources/Scripts/AudioDialogue.cs
+  artifactKey: Guid(247b1ccc351658349b3d2b04cc12a07e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Scripts/AudioDialogue.cs using Guid(247b1ccc351658349b3d2b04cc12a07e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1405f031a20ee731091657568ad14ffe') in 0.009808 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.005066 seconds.
+  path: Assets/GoogleVR/Scripts/Controller/Internal/ControllerProviders/AndroidNativeShimControllerProvider.cs
+  artifactKey: Guid(3e968996b071c460f9b80785694ce6c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Controller/Internal/ControllerProviders/AndroidNativeShimControllerProvider.cs using Guid(3e968996b071c460f9b80785694ce6c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c0a674edec6259a568b444682885b7a') in 0.008577 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 32.851839 seconds.
+  path: Assets/Room/prefabs/book.prefab
+  artifactKey: Guid(f5a1bb1bf8641274c88db4c73f943ae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Room/prefabs/book.prefab using Guid(f5a1bb1bf8641274c88db4c73f943ae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '229bacf45c9b8c992c988a731d2727c6') in 0.144869 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Room/prefabs/candle.prefab
+  artifactKey: Guid(9d012b73caba62246906034d78994c42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Room/prefabs/candle.prefab using Guid(9d012b73caba62246906034d78994c42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a426b7b2096ee19e8a44cb9719e44ff') in 0.025300 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Room/prefabs/Full roof.prefab
+  artifactKey: Guid(9884b1a9ded4dc240b53c0978ec88137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Room/prefabs/Full roof.prefab using Guid(9884b1a9ded4dc240b53c0978ec88137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '709d607138f466aa87ddb76c02269b84') in 0.235197 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000439 seconds.
+  path: Assets/Room/prefabs/tabel.prefab
+  artifactKey: Guid(a5ab52c5408d7e0499ce5e019116f6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Room/prefabs/tabel.prefab using Guid(a5ab52c5408d7e0499ce5e019116f6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26765ec8ca6c29280bdd9f8cc0a25f59') in 0.212469 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Room/prefabs/chandiler.prefab
+  artifactKey: Guid(2e57ba42788234646b2d6b76f15dac76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Room/prefabs/chandiler.prefab using Guid(2e57ba42788234646b2d6b76f15dac76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23f3d8759fbaea78e5fb6745eddf4c5c') in 0.056840 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Room/prefabs/Window.prefab
+  artifactKey: Guid(ac1d6bc633cb75f43b455f34daf7fd73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Room/prefabs/Window.prefab using Guid(ac1d6bc633cb75f43b455f34daf7fd73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67099511793f9c92c51f4818e47804ca') in 0.231157 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Room/prefabs/window00.prefab
+  artifactKey: Guid(09fd774473e8b114b8d4338ec5fc5d2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Room/prefabs/window00.prefab using Guid(09fd774473e8b114b8d4338ec5fc5d2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b010eefb30555227d3dc18ee7c0d0136') in 0.028289 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Room/prefabs/CH0.prefab
+  artifactKey: Guid(33aa3234397faa044af73f4700427d62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Room/prefabs/CH0.prefab using Guid(33aa3234397faa044af73f4700427d62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f87d6b72db16a20e2a8c685eb31f192') in 0.030069 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Room/prefabs/pillers.prefab
+  artifactKey: Guid(f7195cee3b068c54a895c90d16bb7fa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Room/prefabs/pillers.prefab using Guid(f7195cee3b068c54a895c90d16bb7fa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eccff089c88dd3c48f68d443345431d8') in 0.234325 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Room/prefabs/bookcase.prefab
+  artifactKey: Guid(e701c442dd73c844b9f5a0c6ed6e59e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Room/prefabs/bookcase.prefab using Guid(e701c442dd73c844b9f5a0c6ed6e59e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b65eb9c71102da58e04372e115e5f4f8') in 0.289339 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Room/prefabs/door.prefab
+  artifactKey: Guid(4277c84f4eb45414089869ec9eed16a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Room/prefabs/door.prefab using Guid(4277c84f4eb45414089869ec9eed16a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df0e06173a52e451c91b090a52d6a594') in 0.033500 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Room/prefabs/roof piece.prefab
+  artifactKey: Guid(a6b1194453112994298b9a98aad645f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Room/prefabs/roof piece.prefab using Guid(a6b1194453112994298b9a98aad645f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '965ac7e26b7aa6b6b6d4e5940d31463d') in 0.181660 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Room/prefabs/chair.prefab
+  artifactKey: Guid(0941535f5a7c0d846a45a6370dc4036b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Room/prefabs/chair.prefab using Guid(0941535f5a7c0d846a45a6370dc4036b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8280fcd85dd9c5c0261a26ae822cd49a') in 0.074599 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Room/prefabs/Ground.prefab
+  artifactKey: Guid(2619ececdb14aea42a9a5ea90854b3d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Room/prefabs/Ground.prefab using Guid(2619ececdb14aea42a9a5ea90854b3d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2597ddec2bc5bb81f5f2abdbed9dbf7') in 0.056138 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Room/prefabs/fire.prefab
+  artifactKey: Guid(4672393f346060446996dc28733539e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Room/prefabs/fire.prefab using Guid(4672393f346060446996dc28733539e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c8fde8f1409acb23085943f2b4c6e48') in 0.020148 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Room/prefabs/miain.prefab
+  artifactKey: Guid(440d9e69d5aceca4a89f47c4f96043ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Room/prefabs/miain.prefab using Guid(440d9e69d5aceca4a89f47c4f96043ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f34be8f0fd0154e057f282500cbde670') in 0.592893 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.225917 seconds.
+  path: Assets/Zombie/Prefabs/Zombie1.prefab
+  artifactKey: Guid(6dc4cf4496348884d8ee27743ae38562) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Prefabs/Zombie1.prefab using Guid(6dc4cf4496348884d8ee27743ae38562) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b359ab140237deddfe6e092681ba8f1') in 0.219893 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000607 seconds.
+  path: Assets/Zombie/Prefabs/Zombie3.prefab
+  artifactKey: Guid(06cb2b131fe009c47a523671a8fa9ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Prefabs/Zombie3.prefab using Guid(06cb2b131fe009c47a523671a8fa9ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b40ac26d65a8151e73a5af8cdbed56c') in 0.080120 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000545 seconds.
+  path: Assets/Zombie/Prefabs/Zombie2.prefab
+  artifactKey: Guid(d58be77cba3adf54cb14b15052b86514) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Prefabs/Zombie2.prefab using Guid(d58be77cba3adf54cb14b15052b86514) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ce5a0c2b9cb1ed32b1d58ad5c528ea0') in 0.093612 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.257775 seconds.
+  path: Assets/Technical laboratory designer-V1_Room/Prefabs/ceiling_1-2.prefab
+  artifactKey: Guid(ea2cd1846f306304bbe1ffcedbb819c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Technical laboratory designer-V1_Room/Prefabs/ceiling_1-2.prefab using Guid(ea2cd1846f306304bbe1ffcedbb819c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6384ae5f60f80c3beeac60aa42e3ed3f') in 0.241271 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Technical laboratory designer-V1_Room/Prefabs/doorway_2-4.prefab
+  artifactKey: Guid(42cdbd2d596a8744daf927b060eb1ffb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Technical laboratory designer-V1_Room/Prefabs/doorway_2-4.prefab using Guid(42cdbd2d596a8744daf927b060eb1ffb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7da691ab677856a6241b378908418918') in 0.288201 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000471 seconds.
+  path: Assets/Technical laboratory designer-V1_Room/Prefabs/ceiling_2-6.prefab
+  artifactKey: Guid(1f5331f8e837dfd49a594d621d7b75b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Technical laboratory designer-V1_Room/Prefabs/ceiling_2-6.prefab using Guid(1f5331f8e837dfd49a594d621d7b75b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6c8ad9b3e9f01352c27d82a65887198') in 0.248098 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Technical laboratory designer-V1_Room/Prefabs/Wall_1-4.prefab
+  artifactKey: Guid(4ff6f15470d7c1a42a236d6249590dae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Technical laboratory designer-V1_Room/Prefabs/Wall_1-4.prefab using Guid(4ff6f15470d7c1a42a236d6249590dae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd80d6162fdd66b7c4581de9a0110f14') in 0.233108 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000507 seconds.
+  path: Assets/Technical laboratory designer-V1_Room/Prefabs/Lamp_1-3.prefab
+  artifactKey: Guid(828276a091036a44e9782c03eacbe6f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Technical laboratory designer-V1_Room/Prefabs/Lamp_1-3.prefab using Guid(828276a091036a44e9782c03eacbe6f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73f47d0c0669014560ac1aad5d63b49c') in 0.236523 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000447 seconds.
+  path: Assets/Technical laboratory designer-V1_Room/Prefabs/Portable_wall.prefab
+  artifactKey: Guid(3d7b7316ae89b0e4e88111499c1ba7f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Technical laboratory designer-V1_Room/Prefabs/Portable_wall.prefab using Guid(3d7b7316ae89b0e4e88111499c1ba7f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87df2ecefa36ae9212ceacb11f1cb206') in 0.232344 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/Technical laboratory designer-V1_Room/Prefabs/floor_6-6.prefab
+  artifactKey: Guid(b4bb0068f29ebb54487c4154fba6f55f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Technical laboratory designer-V1_Room/Prefabs/floor_6-6.prefab using Guid(b4bb0068f29ebb54487c4154fba6f55f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b19dae60ccd5f7e2f4473220c9e2548a') in 0.512252 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Technical laboratory designer-V1_Room/Prefabs/Wall_4-6.prefab
+  artifactKey: Guid(e52890ebb21e7704b8a5193fa0865463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Technical laboratory designer-V1_Room/Prefabs/Wall_4-6.prefab using Guid(e52890ebb21e7704b8a5193fa0865463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a705189c40a9d0ab21133ecbf7ffc3e0') in 0.218924 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000459 seconds.
+  path: Assets/Technical laboratory designer-V1_Room/Prefabs/ceiling_2-2.prefab
+  artifactKey: Guid(6a505574226cba14e8279a4e2ec9e849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Technical laboratory designer-V1_Room/Prefabs/ceiling_2-2.prefab using Guid(6a505574226cba14e8279a4e2ec9e849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecf221ca14475fd08870afe410b959f0') in 0.251665 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/Technical laboratory designer-V1_Room/Prefabs/Wall_4-4.prefab
+  artifactKey: Guid(a35c43ed8a4013b4fb40b938e414ff25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Technical laboratory designer-V1_Room/Prefabs/Wall_4-4.prefab using Guid(a35c43ed8a4013b4fb40b938e414ff25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d8dd84ee193869778559f84d261a438') in 0.202194 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Technical laboratory designer-V1_Room/Prefabs/support.prefab
+  artifactKey: Guid(0b9662d841a209a4e9138ee7c203c0e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Technical laboratory designer-V1_Room/Prefabs/support.prefab using Guid(0b9662d841a209a4e9138ee7c203c0e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1efcb62b2031c5a36cca9a5a8cd5285c') in 0.277852 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Technical laboratory designer-V1_Room/Prefabs/Lamp_1-1.prefab
+  artifactKey: Guid(2b1146ffc6ea01e4bb2c86bdc19a332f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Technical laboratory designer-V1_Room/Prefabs/Lamp_1-1.prefab using Guid(2b1146ffc6ea01e4bb2c86bdc19a332f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '940d79530502b7756b27769f05f03432') in 0.237561 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Technical laboratory designer-V1_Room/Prefabs/floor_4-6.prefab
+  artifactKey: Guid(476aa7c6684630c4fb9e976857439619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Technical laboratory designer-V1_Room/Prefabs/floor_4-6.prefab using Guid(476aa7c6684630c4fb9e976857439619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba62221d1b445202d19d9226f7353507') in 0.508358 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Technical laboratory designer-V1_Room/Prefabs/doorway_4-4.prefab
+  artifactKey: Guid(f3418d4e848286248b7f54af9ce7c818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Technical laboratory designer-V1_Room/Prefabs/doorway_4-4.prefab using Guid(f3418d4e848286248b7f54af9ce7c818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afb0b976ab40389bf7207f00483bc09e') in 0.277664 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/Technical laboratory designer-V1_Room/Prefabs/Wall_2-4.prefab
+  artifactKey: Guid(537ce066f9e5e874c8efdb9782ee5f6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Technical laboratory designer-V1_Room/Prefabs/Wall_2-4.prefab using Guid(537ce066f9e5e874c8efdb9782ee5f6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1b94259c51ab2a2d677e7748b865590') in 0.230787 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Technical laboratory designer-V1_Room/Prefabs/floor_4-4.prefab
+  artifactKey: Guid(43a347f2cf3150b41a51c7e1f2e4296a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Technical laboratory designer-V1_Room/Prefabs/floor_4-4.prefab using Guid(43a347f2cf3150b41a51c7e1f2e4296a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd74a09d23998903ea3f6841c55ce6cd') in 0.430342 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004554 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.017 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1017ms)
+		BeginReloadAssembly (104ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (30ms)
+		EndReloadAssembly (865ms)
+			LoadAssemblies (85ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (278ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (42ms)
+			SetupLoadedEditorAssemblies (332ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (96ms)
+				ProcessInitializeOnLoadAttributes (211ms)
+				ProcessInitializeOnLoadMethodAttributes (14ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.53 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1738 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 117.6 MB.
+System memory in use after: 117.7 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2271.
+Total: 3.876600 ms (FindLiveObjects: 0.170400 ms CreateObjectMapping: 0.056900 ms MarkObjects: 3.507300 ms  DeleteObjects: 0.139600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009681 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.007 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2008ms)
+		BeginReloadAssembly (204ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (66ms)
+		EndReloadAssembly (1628ms)
+			LoadAssemblies (241ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (515ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (63ms)
+			SetupLoadedEditorAssemblies (541ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (211ms)
+				ProcessInitializeOnLoadAttributes (294ms)
+				ProcessInitializeOnLoadMethodAttributes (20ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (3ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.58 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1738 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 117.6 MB.
+System memory in use after: 117.7 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2275.
+Total: 2.908100 ms (FindLiveObjects: 0.160800 ms CreateObjectMapping: 0.054500 ms MarkObjects: 2.601200 ms  DeleteObjects: 0.089900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004578 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.007 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1008ms)
+		BeginReloadAssembly (114ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (30ms)
+		EndReloadAssembly (825ms)
+			LoadAssemblies (99ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (251ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (322ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (87ms)
+				ProcessInitializeOnLoadAttributes (211ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.54 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1738 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 117.6 MB.
+System memory in use after: 117.7 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2279.
+Total: 4.573100 ms (FindLiveObjects: 0.161700 ms CreateObjectMapping: 0.059500 ms MarkObjects: 4.165700 ms  DeleteObjects: 0.184000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
