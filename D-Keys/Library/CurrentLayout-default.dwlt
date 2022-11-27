@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 780.8
   m_ShowMode: 4
-  m_Title: Inspector
+  m_Title: Game
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
@@ -46,9 +46,9 @@ MonoBehaviour:
     width: 1536
     height: 730.8
   m_MinSize: {x: 678, y: 492}
-  m_MaxSize: {x: 14002, y: 14042}
+  m_MaxSize: {x: 14001, y: 14042}
   vertical: 0
-  controlID: 106
+  controlID: 153
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 484.80005
     height: 730.8
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -224,10 +224,10 @@ MonoBehaviour:
     y: 0
     width: 1051.2
     height: 730.8
-  m_MinSize: {x: 402, y: 492}
+  m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 59
+  controlID: 94
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -249,10 +249,10 @@ MonoBehaviour:
     y: 0
     width: 1051.2
     height: 332
-  m_MinSize: {x: 402, y: 221}
-  m_MaxSize: {x: 8002, y: 4021}
+  m_MinSize: {x: 403, y: 221}
+  m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 60
+  controlID: 69
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -272,8 +272,8 @@ MonoBehaviour:
     y: 0
     width: 634.39996
     height: 332
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -379,22 +379,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Models/Key/Models
+    - Assets/Scripts
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Models/Key/Models
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\natal\Documents\GitHub\D-Keys\D-Keys
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 60}
-    m_SelectedIDs: d4cd0000
-    m_LastClickedID: 52692
-    m_ExpandedIDs: 000000006446000066460000684600006a4600006c4600006e46000070460000724600007446000076460000784600007a4600007c46000080460000ee460000f846000088e0000000ca9a3b
+    scrollPos: {x: 0, y: 194.20001}
+    m_SelectedIDs: 1c440000
+    m_LastClickedID: 17436
+    m_ExpandedIDs: 000000009443000096430000984300009a4300009c4300009e430000a0430000a2430000a4430000a6430000a8430000aa430000ac430000ae4300000e440000184400002c44000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -422,7 +422,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000006446000066460000684600006a4600006c4600006e46000070460000724600007446000076460000784600007a4600007c4600007e46000080460000
+    m_ExpandedIDs: 000000009443000096430000984300009a4300009c4300009e430000a0430000a2430000a4430000a6430000a8430000aa430000ac430000ae430000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -449,7 +449,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c623000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -542,21 +542,21 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 64}
-      m_SelectedIDs: 62b4ffff
-      m_LastClickedID: -19358
-      m_ExpandedIDs: 5ab4ffff66b4ffff8cb4ffff38b5ffffa4b6ffffacb7ffff8ec3ffff58c7ffff70c7ffffc0f8ffff6afbffff864100009e410000
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 1ae3ffffaae3ffffc6e3ffff32e5ffff30ebffff22f1ffff1cf7ffff6afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: DoorV4
-        m_OriginalName: DoorV4
+        m_Name: GazeInputObject_1
+        m_OriginalName: GazeInputObject_1
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -19490
+        m_UserData: 20502
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
         m_OriginalEventType: 0
@@ -605,9 +605,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1.9892032, y: 1.0965624, z: 0.4066447}
+    m_Target: {x: 0.7502119, y: 2.171091, z: 1.8644744}
     speed: 2
-    m_Value: {x: 1.9892033, y: 1.0965624, z: 0.4066446}
+    m_Value: {x: 0.7502119, y: 2.171091, z: 1.8644744}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -654,13 +654,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.09037617, y: -0.90735817, z: 0.25651085, w: -0.32091168}
+    m_Target: {x: -0.027623393, y: -0.84282345, z: 0.043919593, w: -0.5359177}
     speed: 2
-    m_Value: {x: -0.08988373, y: -0.907629, z: 0.2551177, w: -0.32100686}
+    m_Value: {x: -0.027619926, y: -0.84271765, z: 0.04391408, w: -0.5358504}
   m_Size:
-    m_Target: 0.157975
+    m_Target: 0.28857562
     speed: 2
-    m_Value: 0.15797523
+    m_Value: 0.28857562
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -740,10 +740,10 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMin: 1
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
-    m_HSlider: 1
-    m_VSlider: 1
+    m_HSlider: 0
+    m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -754,7 +754,7 @@ MonoBehaviour:
       y: 21
       width: 1050.2
       height: 356.8
-    m_Scale: {x: 1, y: 1}
+    m_Scale: {x: 0.9999999, y: 0.99999994}
     m_Translation: {x: 525.1, y: 178.4}
     m_MarginLeft: 0
     m_MarginRight: 0
@@ -762,10 +762,10 @@ MonoBehaviour:
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -525.1
-      y: -178.4
-      width: 1050.2
-      height: 356.8
+      x: -525.10004
+      y: -178.40001
+      width: 1050.2001
+      height: 356.80002
     m_MinimalGUI: 1
   m_defaultScale: 0.9999999
   m_LastWindowPixelSize: {x: 1312.75, y: 472.25}

@@ -55,7 +55,7 @@ public class GazeInput : MonoBehaviour
 
     public void OnPointerClick()
     {
-         SceneManager.LoadScene(nextScene);
+         SceneManager.LoadScene("ZombieScene");
     }
 
 }
