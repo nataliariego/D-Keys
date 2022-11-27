@@ -6,6 +6,7 @@ TagManager:
   tags:
   - WayPoint
   - pedestal_lava
+  - Lava
   layers:
   - Default
   - TransparentFX

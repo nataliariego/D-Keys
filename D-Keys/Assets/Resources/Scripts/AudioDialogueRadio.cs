@@ -23,6 +23,7 @@ public class AudioDialogueRadio : MonoBehaviour
         animator = GetComponent<Animator>();
         if (animator == null)
             Debug.Log("missing animator component!");
+        audioGoodbye.Play();
 
     }
 
