@@ -97,7 +97,7 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 112000004, guid: 20c68f2a7d5c12e4eb333cb121df277d, type: 2}
+  m_LightingDataAsset: {fileID: 112000006, guid: f42d3484499064e43aca542ae2c00dac, type: 2}
   m_LightingSettings: {fileID: 1852604628}
 --- !u!196 &4
 NavMeshSettings:
@@ -2224,7 +2224,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b754a142d4d03b44b76125d7e1c948f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nextScene: ZombieScene
+  nextScene: apocalipsis zombie
   timerDuration: 3
 --- !u!4 &1415191831
 Transform:
@@ -2471,8 +2471,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b754a142d4d03b44b76125d7e1c948f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nextScene: 
-  timerDuration: 3
+  nextScene: LavaScene
+  timerDuration: 2
 --- !u!4 &1480439296
 Transform:
   m_ObjectHideFlags: 0
