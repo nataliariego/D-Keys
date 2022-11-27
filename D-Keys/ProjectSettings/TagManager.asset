@@ -5,6 +5,21 @@ TagManager:
   serializedVersion: 2
   tags:
   - WayPoint
+  - MesaMezcla
+  - ShelfDondePecera
+  - Lavabo
+  - Shelf
+  - Sustancia1
+  - Sustancia2
+  - Matraz
+  - Pecera
+  - Jeringuilla
+  - Shelf1
+  - Shelf2
+  - Goal1
+  - Goal2
+  - MesaJeringuilla
+  - Goal
   layers:
   - Default
   - TransparentFX

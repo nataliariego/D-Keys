@@ -6,6 +6,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using DialogueEditor;
 using System.Configuration.Assemblies;
+using System;
 ///--------------------------------
 ///   Author: Victor Alvarez, Ph.D.
 ///   Conversation update:
@@ -21,11 +22,9 @@ public class MovementWithConversation : MonoBehaviour
     public float gravity = -9.81f;
     public float jumpHeight = 2f;
 
-    public string goal ="Princess";
-    public string goalCoger = "Cross";
-    public string nextScene = "MenuVRFinal";
+    public string goal;
+    public string nextScene;
 
-    private bool reach = false;
 
     Vector3 velocity;
    
@@ -58,18 +57,16 @@ public class MovementWithConversation : MonoBehaviour
 
     public void OnControllerColliderHit(ControllerColliderHit hit)
     {
-        if (hit.gameObject.CompareTag(goalCoger) && !reach)
-        {
-            GameObject cross = GameObject.FindGameObjectsWithTag("Cross")[0]; //sol tengo una con esa etqueta
-            Destroy(cross);
-
-            reach = true;
-
-           
-            Debug.Log("Cogiste la cruz");
-        }
-        else if (hit.gameObject.CompareTag(goal)) {
+        if (hit.gameObject.CompareTag(goal) && yaLoHiceTodo()) {
             SceneManager.LoadScene(nextScene);
         }
+    }
+
+    private bool yaLoHiceTodo()
+    {
+        TextDialogue t = FindObjectOfType<TextDialogue>();
+        Debug.Log("--->"+t.orden);
+        if (t.orden == 7) return true;
+        return false;
     }
 }

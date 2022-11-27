@@ -1,13 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/apocalipsis zombie.unity
-  isLoaded: 0
-  isActive: 0
-  isSubScene: 0
-- path: Assets/Scenes/LavaLevel.unity
+- path: Assets/Room/scenes/the last revelation.unity
   isLoaded: 1
   isActive: 1
-  isSubScene: 0
-- path: Assets/Room/scenes/the last revelation.unity
-  isLoaded: 0
-  isActive: 0
   isSubScene: 0
