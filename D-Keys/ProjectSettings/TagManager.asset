@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - WayPoint
+  - pedestal_lava
+  - Lava
   layers:
   - Default
   - TransparentFX
