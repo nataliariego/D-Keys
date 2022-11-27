@@ -2224,7 +2224,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b754a142d4d03b44b76125d7e1c948f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nextScene: apocalipsis zombie
+  nextScene: ZombieScene
   timerDuration: 3
 --- !u!4 &1415191831
 Transform:
